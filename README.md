@@ -60,9 +60,9 @@ fetch a link to image that expires
 * Get thumbnail  
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/81069467/219980782-45c48756-2d40-4295-a8ca-ac36630c1c89.gif)
   
-* Get and use link that expires after specified amount of time
+* Get and use link that expires after specified amount of time  
 ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/81069467/219980850-eb95265d-8ea7-41f2-9b8a-2dde84bbace8.gif)
   
-* Use link that expired
+* Use link that expired  
 ![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/81069467/219980855-b3d9143c-19c7-435d-b755-59c48865930c.gif)
   
