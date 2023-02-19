@@ -8,7 +8,7 @@ You can:
 * list your images
 
 ## Setup
-To run this project you need to install all dependencies in requirements.txt:
+To run this project you need to install all dependencies in requirements.txt and download project:
 ```
 $ pip install django
 $ pip install djangorestframework
@@ -17,11 +17,22 @@ $ pip install Pillow
 $ pip install PyJWT
 $ pip install sorl-thumbnail==11.12
 ```
+then navigate to project folder ("Backend--Django--Developer") and type:
+```
+python manage.py runserver
+```
 
-or using git clone
+
+OR using git clone
 ```
 git clone https://github.com/patrinhoo/Backend--Django--Developer
 ```
+then navigate to project folder ("Backend--Django--Developer") and type:
+```
+conda activate ./venv
+python manage.py runserver
+```
+
 
 ## There are 3 account tiers:  
 * Basic:  
