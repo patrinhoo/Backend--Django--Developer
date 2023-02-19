@@ -21,9 +21,9 @@ then navigate to project folder ("Backend--Django--Developer") and type:
 ```
 python manage.py runserver
 ```
-  
+   
 OR  
-  
+   
 2/ using git clone
 ```
 git clone https://github.com/patrinhoo/Backend--Django--Developer
