@@ -7,7 +7,23 @@ You can:
 * upload image
 * list your images
 
-# There are 3 account tiers:  
+## Setup
+To run this project you need to install all dependencies in requirements.txt:
+```
+$ pip install django
+$ pip install djangorestframework
+$ pip install djangorestframework-simplejwt
+$ pip install Pillow
+$ pip install PyJWT
+$ pip install sorl-thumbnail==11.12
+```
+
+or using git clone
+```
+git clone https://github.com/patrinhoo/Backend--Django--Developer
+```
+
+## There are 3 account tiers:  
 * Basic:  
 thumbnail 200px in height
 
