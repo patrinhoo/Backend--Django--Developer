@@ -8,7 +8,7 @@ You can:
 * list your images
 
 ## Setup
-To run this project you need to install all dependencies in requirements.txt and download project:
+1/ To run this project you need to install all dependencies in requirements.txt and download project:
 ```
 $ pip install django
 $ pip install djangorestframework
@@ -21,9 +21,10 @@ then navigate to project folder ("Backend--Django--Developer") and type:
 ```
 python manage.py runserver
 ```
-
-
-OR using git clone
+  
+OR  
+  
+2/ using git clone
 ```
 git clone https://github.com/patrinhoo/Backend--Django--Developer
 ```
