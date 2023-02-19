@@ -1,0 +1,13 @@
+prefix=C:/ProgramData/Anaconda3/envs/HexOcean_BackendDev/Library
+exec_prefix=C:/ProgramData/Anaconda3/envs/HexOcean_BackendDev/Library
+libdir=C:/ProgramData/Anaconda3/envs/HexOcean_BackendDev/Library/lib
+sharedlibdir=C:/ProgramData/Anaconda3/envs/HexOcean_BackendDev/Library/lib
+includedir=C:/ProgramData/Anaconda3/envs/HexOcean_BackendDev/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
